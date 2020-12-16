@@ -1,0 +1,10 @@
+- menambah link menuju halaman register pada halaman login
+- memperbaiki route setelah login
+- 1 recap 1 hari
+- membuat halaman untuk menampilkan recap yang dipilih
+- memperbaiki format list
+- membuat fitur komentar
+
+tambahan:
+- filter
+- tampilan
